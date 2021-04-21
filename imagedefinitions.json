@@ -1,6 +1,6 @@
 [
   {
-    "name": "tomcat",
-    "imageUri": ""
+    "name": "tomcat-webserver",
+    "imageUri": "tomcat"
   }
 ]
