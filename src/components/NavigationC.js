@@ -4,7 +4,7 @@ import {Grid,Row,Col} from 'react-bootstrap';
 import email from '../images/email-16.png';
 import refresh from '../images/refresh-16.png';
 import setting from '../images/setting-16.png';
-import projectmapping from '../../../ProjectMapping.json';
+import projectmapping from '../ProjectMapping.json';
 
 //function onSelectAlert(job) {
   //  alert(`Alert from menu item.\neventKey: ${job}`);
