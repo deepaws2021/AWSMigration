@@ -1,5 +1,5 @@
 import axios from 'axios';
-import projectmapping from '../../../ProjectMapping.json';
+import projectmapping from '../ProjectMapping.json';
 export const REQUEST_DROPDOWN = 'REQUEST_DROPDOWN'
 export const RECEIVE_DROPDOWN = 'RECEIVE_DROPDOWN'
 export const REQUEST_POPULATE = 'REQUEST_POPULATE'
