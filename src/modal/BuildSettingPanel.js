@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 import { Modal, FormGroup, ControlLabel, FormControl, HelpBlock, Button } from 'react-bootstrap';
-import projectmapping from '../../../ProjectMapping.json';
+import projectmapping from '../ProjectMapping.json';
 
 class BuildSettingPanel extends Component{
     constructor(props){
