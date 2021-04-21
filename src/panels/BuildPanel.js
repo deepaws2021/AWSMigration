@@ -13,7 +13,7 @@ import { connect } from 'react-redux';
 import {isNull, getFormatedDateString, getFormatedDate, millisToMinutesAndSeconds, getFormatedDateForKey, getDateFromString, getDayFromDate, getTimeToDisplay}  from '../utils/utility'
 import EnvironmentStatusCheckPanel from './EnvironmentStatusCheckPanel';
 import BuildSettingPanel from '../modal/BuildSettingPanel';
-import projectmapping from '../../../ProjectMapping.json';
+import projectmapping from '../ProjectMapping.json';
 import ConfigureAlertC from '../components/ConfigureAlertC';
 import 'react-notifications/lib/notifications.css';
 import {NotificationContainer, NotificationManager} from 'react-notifications';
